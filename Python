@@ -1,0 +1,65 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPvPTGt8KmUy3V8SPTrpPE4",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Lil0nly2/Quick_sort/blob/main/Python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "🐍 Python Fundamentals: A Student Guide\n",
+        "📖 Book Architecture & Course Overview\n",
+        "Unit 1: Foundations & Control Flow\n",
+        " ├── 1.1 Variables, Data Types & I/O\n",
+        " └── 1.2 Conditional Logic & Loops\n",
+        "\n",
+        "Unit 2: Data Structures & Reusability\n",
+        " ├── 2.1 Lists, Dictionaries & Tuples\n",
+        " └── 2.2 Functions & Scope"
+      ],
+      "metadata": {
+        "id": "1PbyJk-xP-Q3"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Unit 1: Foundations & Control Flow\n",
+        "Module 1.1: Variables, Data Types & Input/Output\n",
+        "Teaching Goal: Get students to write their first working program and understand how Python stores information in memory."
+      ],
+      "metadata": {
+        "id": "CIBJZ-gQRBOU"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "g3brE1ANREAB"
+      }
+    }
+  ]
+}
